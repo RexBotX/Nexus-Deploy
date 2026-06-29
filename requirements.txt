@@ -1,5 +1,4 @@
 asyncio
-imdbkit
 aiofiles
 aiohttp
 aioshutil
